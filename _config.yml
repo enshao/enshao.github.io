@@ -1,6 +1,5 @@
-title: Minimal theme
+title: En Shao(邵 恩)
 logo: /shaoen.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Institute of Computing Technology, Chinese Academy of Sciences
+google_analytics: true
 theme: jekyll-theme-minimal
