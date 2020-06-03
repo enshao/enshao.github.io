@@ -28,7 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-![Image of shaoen](https://raw.githubusercontent.com/enshao/enshao.github.io/master/shaoen.jpg)
 
 ### Jekyll Themes
 
