@@ -3,4 +3,5 @@ author: En Shao
 logo: /shaoen.jpg
 description: ICT, CAS
 google_analytics: 
+timezone: UTC
 theme: jekyll-theme-minimal
