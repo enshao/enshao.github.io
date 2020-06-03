@@ -9,7 +9,7 @@
 
 ### 工作经历：
 
-1.  2013-6至今,[中国科学院计算技术研究所](http://www.ict.ac.cn/),[高性能计算机研究中心](http://www.ncic.ac.cn/index.php),工程师
+1.  2013-6至今,[中国科学院计算技术研究所](http://www.ict.ac.cn/) ([高性能计算机研究中心](http://www.ncic.ac.cn/index.php)),工程师
 
 ### 主持或参加科研项目：
 
