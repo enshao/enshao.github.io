@@ -1,7 +1,7 @@
 ### 中国科学院计算技术研究所  工程师
 ### 邮箱：shaoen@ict.ac.cn 
 ### 研究方向
-计算机系统结构、光电混合网络、超算云化、编程模型
+计算机体系结构、异构互连网络、异构资源调度、编程模型
 ### 教育经历
 1.  2016-9至2019-7, 中国科学院大学, 计算机系统结构, 博士, 导师: 孙凝晖
 2.  2010-9至2013-3, 北京邮电大学, 电子科学与技术, 硕士, 导师: 高锦春
@@ -13,19 +13,16 @@
 
 ### 主持或参加科研项目：
 
-1. 国家重点研发计划（子课题），E级高性能计算机原型系统研制，已结题，主持
-2. 科学院（先导B课题），超高带宽光交互网络研究及原型系统验证，在研，参加
+1. 国家重点研发计划，E级高性能计算机原型系统研制，已结题，主持
+2. 科学院（先导B），超高带宽光交互网络研究及原型系统验证，在研，参加
 3. 总装预研，自主异构计算资源融合调度与管理技术，在研，主持
 
 
 ### 会议论文
-[1]	En Shao（邵恩）, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun. A new traffic offloading method with slow switching optical device in exascale computer[C]//2019 IEEE 37th International Conference on Computer Design, ICCD 2019 (CCF B类)
-
-[2]	En Shao（邵恩）, Guangming Tan , Zhan Wang , Ninghui Sun, “OeIM: An Optoelectronic Interconnection Middleware for Exascale Computing”, HPCC 2019 (CCF C类)
-
-[3]	En Shao（邵恩）, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun, “sDNA: Software Define Network Accelerator based on Optical Interconnection Architecture”, SC 19 Poster (CCF A类)
-
-[4]	Zhen Xie, Zheng Cao, Zhan Wang, Dawei Zang, En Shao（邵恩）, Ninghui Sun: Modeling Traffic of Big Data Platform for Large Scale Datacenter Networks. ICPADS 2016 (CCF C类)
+[1]	 En Shao（邵恩）, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun. A new traffic offloading method with slow switching optical device in exascale computer[C]//2019 IEEE 37th International Conference on Computer Design, ICCD 2019 (CCF B类)
+[2]	 En Shao（邵恩）, Guangming Tan , Zhan Wang , Ninghui Sun, “OeIM: An Optoelectronic Interconnection Middleware for Exascale Computing”, HPCC 2019 (CCF C类)
+[3]	 En Shao（邵恩）, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun, “sDNA: Software Define Network Accelerator based on Optical Interconnection Architecture”, SC 19 Poster (CCF A类)
+[4]	 Zhen Xie, Zheng Cao, Zhan Wang, Dawei Zang, En Shao（邵恩）, Ninghui Sun: Modeling Traffic of Big Data Platform for Large Scale Datacenter Networks. ICPADS 2016 (CCF C类)
 
 
 
