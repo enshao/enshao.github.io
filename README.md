@@ -4,8 +4,10 @@ You can use the [editor on GitHub](https://github.com/enshao/enshao.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### 中国科学院计算技术研究所  工程师
+### 邮箱：shaoen@ict.ac.cn 
+### 研究方向
+计算机系统结构、光电混合网络、超算云化、编程模型
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
