@@ -26,12 +26,12 @@ English website is [here](https://enshao.github.io/eng/)
 4.  **[ICPADS 2019]**:Zhen Xie, Zheng Cao, Zhan Wang, Dawei Zang, **En Shao（邵恩）**, Ninghui Sun: Modeling Traffic of Big Data Platform for Large Scale Datacenter Networks. ICPADS 2016 (CCF C类)
 
 ### 期刊论文
-5.	**[CCF Transactions on HPC]**:**En Shao（邵恩）**, Zhan Wang, Guojun Yuan, Guangming Tan , Ninghui Sun, “Wormhole Optical Network: A new architecture to solve long diameter problem in exascale computer”, [J]. CCF Transactions on High Performance Computing（CCF THPC）, 2019, 1(2):73-91. 
-6.	**[计算机学报]**:**邵恩**、孙凝晖、郭嘉梁、元国军、王展、曹政.基于事件驱动的MapReduce类流量产生方法与网络评测， [J].《计算机学报》,2018,41(10):2265-2281.
-7.	**[计算机研究与发展]**:**邵恩**、元国军、郇志轩、曹政、孙凝晖.面向大规模计算机群的多轨分割网络，[J].《计算机研究与发展》，2017年11期第54卷.
-8.	**[IJPP]**:Yong Su, Zhan Wang, Zhiguo Fan, Zheng Cao, Xiaoli Liu, **En Shao（邵恩）**, Xuejun An, Ninghui Sun: HyperFatTree: A Large-Scale Tree-Based Network with Low-Radix Switches. International Journal of Parallel Programming 45(1): 172-184 (2017) (SCI, IF: 1.258)
-9.	**[计算机研究与发展]**:杨帆，张鹏，王展，元国军，**邵恩**，安学军. 基于在网计算的拜占庭容错算法，[J].《计算机研究与发展》，于2020年录用
-10.	**[计算机学报]**:马潇潇，陆钢，付斌章，安仲奇，朱泓睿，**邵恩**，王展，安学军. 非连续数据网络通信实现方法和性能分析[J].《计算机学报》, 于2020年录用
+5.	**[CCF Transactions on HPC]**: **En Shao（邵恩）**, Zhan Wang, Guojun Yuan, Guangming Tan , Ninghui Sun, “Wormhole Optical Network: A new architecture to solve long diameter problem in exascale computer”, [J]. CCF Transactions on High Performance Computing（CCF THPC）, 2019, 1(2):73-91. 
+6.	**[计算机学报]**: **邵恩**、孙凝晖、郭嘉梁、元国军、王展、曹政.基于事件驱动的MapReduce类流量产生方法与网络评测， [J].《计算机学报》,2018,41(10):2265-2281.
+7.	**[计算机研究与发展]**: **邵恩**、元国军、郇志轩、曹政、孙凝晖.面向大规模计算机群的多轨分割网络，[J].《计算机研究与发展》，2017年11期第54卷.
+8.	**[IJPP]**: Yong Su, Zhan Wang, Zhiguo Fan, Zheng Cao, Xiaoli Liu, **En Shao（邵恩）**, Xuejun An, Ninghui Sun: HyperFatTree: A Large-Scale Tree-Based Network with Low-Radix Switches. International Journal of Parallel Programming 45(1): 172-184 (2017) (SCI, IF: 1.258)
+9.	**[计算机研究与发展]**: 杨帆，张鹏，王展，元国军，**邵恩**，安学军. 基于在网计算的拜占庭容错算法，[J].《计算机研究与发展》，于2020年录用
+10.	**[计算机学报]**: 马潇潇，陆钢，付斌章，安仲奇，朱泓睿，**邵恩**，王展，安学军. 非连续数据网络通信实现方法和性能分析[J].《计算机学报》, 于2020年录用
 
 ### 学术奖励
 1. 中国科学院 计算技术研究所，年度优秀工程师，2018
