@@ -12,11 +12,11 @@ English website is [here](https://enshao.github.io/eng/)
 2.  2010-9至2013-3, **北京邮电大学**,电子科学与技术, **硕士**(师从:**高锦春 教授**)
 3.  2006-9至2010-7, **西安电子科技大学**, **本科**
 
-### 工作经历：
+### 工作经历
 
 1.  2013-6至今,中国科学院计算技术研究所 (高性能计算机研究中心),工程师
 
-### 学术服务：
+### 学术服务
 1.  IEEE Trans. On Computer (special issue): Review Committee
 2.  IFIP NPC 2020: Web Chair
 3.  IFIP NPC 2020: Program Committee
