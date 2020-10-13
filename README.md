@@ -14,8 +14,8 @@ English website is [here](https://enshao.github.io/eng/)
 
 ### 工作经历
 
-1.  2013-6至2020-9,中国科学院计算技术研究所,工程师
-2.  2020-10至今,中国科学院计算技术研究所,高级工程师
+1.  2013-6 至 2020-9,中国科学院计算技术研究所,工程师
+2.  2020-10 至今,中国科学院计算技术研究所,高级工程师
 
 ### 学术服务
 1.  IEEE Trans. On Computer (special issue): Review Committee
