@@ -22,6 +22,7 @@ English website is [here](https://enshao.github.io/eng/)
 3.  IFIP NPC 2020: Program Committee
 4.  IEEE Cluster 2020: Technical Program Committees
 5.  IEEE HPCC 2020: Program Committee 
+6.  IEEE IPDPS 2020: Program Committee 
 
 
 ### 会议论文
